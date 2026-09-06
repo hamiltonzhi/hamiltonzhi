@@ -1,4 +1,11 @@
-## Hi there 👋
+# hamiltonzhi.github.io/hamiltonzhi
+
+Investment write-ups by Hamilton Zhi — equities, credit, rates, FX,
+commodities, options and digital assets.
+
+**Read them at [hamiltonzhi.github.io/hamiltonzhi](https://hamiltonzhi.github.io/hamiltonzhi/)**
+
+© 2026 Hamilton Zhi. All rights reserved. Not investment advice.
 
 <!--
 **hamiltonzhi/hamiltonzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
